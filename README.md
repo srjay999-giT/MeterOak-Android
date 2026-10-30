@@ -2,7 +2,7 @@
 
 An Android preview of **MeterOak**, an AI usage dashboard for exploring token usage, model breakdowns, and API cost estimates.
 
-[**Download Android APK**](https://github.com/srjay999-giT/MeterOak-Android/releases) · [**Website & main repository**](https://github.com/srjay999-giT/MeterOak)
+[**Live browser demo**](https://meteroak-android.vercel.app) · [**Download Android APK**](https://github.com/srjay999-giT/MeterOak-Android/releases) · [**Website & main repository**](https://github.com/srjay999-giT/MeterOak)
 
 This preview works offline with bundled sample data. It does not access your AI accounts or local usage history. Cost figures are estimates, not bills.
 
